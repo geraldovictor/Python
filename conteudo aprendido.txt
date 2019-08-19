@@ -1,0 +1,20 @@
+a função print() recebe os valores e os printa na tela
+sep="" vai ser um separador das palavras dentro do print
+end="" vai ser o que deseja colocar no final do print
+
+o python usa como padrão Snake_case por exemplo: nome_proprietario
+
+o python tem tipagem dinâmica e a variável só recebe o tipo quando
+fornecemos o valor para ela
+
+para entrada de dados deve-se declarar a variável que irá receber o valor
+e em seguida usar a função input e passar o valor
+
+qualquer valor digitado no input será recebido como str
+para mudar é necessário fazer uma conversão
+
+para concatenar str é simples, basta usar o sinal de +
+
+elif equivale a else if em c
+
+tem como adicionar a uma varável uma comparação e essa variável receberá um valor booleano true para verdadeira e false para falso
