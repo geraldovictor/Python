@@ -18,3 +18,5 @@ para concatenar str é simples, basta usar o sinal de +
 elif equivale a else if em c
 
 tem como adicionar a uma varável uma comparação e essa variável receberá um valor booleano true para verdadeira e false para falso
+
+estudar flask
