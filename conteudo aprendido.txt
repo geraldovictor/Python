@@ -19,4 +19,21 @@ elif equivale a else if em c
 
 tem como adicionar a uma varável uma comparação e essa variável receberá um valor booleano true para verdadeira e false para falso
 
-estudar flask
+estudar django
+
+mkdir django2-30min
+
+python3 -m venv venv
+ . venv/bin/activate
+
+pip install django
+
+python
+
+import django
+
+django.VERSION
+
+django admin start project proj
+
+https://www.youtube.com/watch?v=-YlK0A8Goj8
