@@ -19,29 +19,6 @@ elif equivale a else if em c
 
 tem como adicionar a uma varável uma comparação e essa variável receberá um valor booleano true para verdadeira e false para falso
 
-<<<<<<< HEAD
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ** é potenciação
 
 type() me da o tipo
@@ -49,7 +26,8 @@ type() me da o tipo
 id() me da o endereço
 
 operadores de comparação são and e or
-=======
+
+
 estudar django
 
 mkdir django2-30min
@@ -68,4 +46,3 @@ django.VERSION
 django admin start project proj
 
 https://www.youtube.com/watch?v=-YlK0A8Goj8
->>>>>>> 6e00512edb28af410427e725259fa4a2bfb6d320
