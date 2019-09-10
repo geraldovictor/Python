@@ -27,6 +27,8 @@ id() me da o endereço
 
 operadores de comparação são and e or
 
+%mod em python
+
 
 estudar django
 
@@ -43,6 +45,74 @@ import django
 
 django.VERSION
 
-django admin start project proj
+django-admin startproject proj //cria uma pasta para o projeto
+
+manage.py startapp // cria minha app
+
+manage.py migrate //
 
 https://www.youtube.com/watch?v=-YlK0A8Goj8
+
+i = int (input("insira um numero"))
+
+if (i%2==0):
+  print("O numero {0} é par".format(i)) # serve para indicar o indice dos valores dados como argumento
+
+l = [1, 2 ,3]
+
+print(l[0], l[1], l[2]) virgula da o estaço
+
+s= set(l) retira repetições
+
+for i in range(3): oou range (2,6) ou reverse(range(2,6)) ou passar para j o valor que ta em cada posição da lista for j int l:
+  print(l[i])
+
+l = []
+
+l.append(valor) adiciona valor a posição atual e incrimenta
+
+for j in range(3):
+  i = int(inpput())
+  l.append(i)
+
+l.remove(elemento ou l[0]) remove o elemento ou remove o elemento de acordo com a posição
+
+l[1:] remove fatia da posição até o final
+l[1:2] remove fatia da posição até o 2
+
+print(l) ja mostra a lista inteira
+
+
+def soma(x,y=10): se n for dado argumento defino um padrão
+  return x+y
+
+print(soma(10,11))
+
+teste = 100
+
+def soma1():
+  global teste
+  teste = 1
+
+soma1(teste);
+
+print(teste)
+
+teste = 100
+def soma1(a):
+  a+= 1
+  return a
+
+teste = soma1(teste)
+
+cadastro{}
+
+cadastro['nome'] = "Victor"
+
+equilave a uma struct mais ou menos
+
+print(teste)
+
+l.append(função)
+
+l[1]()
